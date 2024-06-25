@@ -14,5 +14,5 @@ description: 'Community usage Roles'
 
 ## Admin Help
 
-> For all server-related issues, message @Discord-Admins mail. <br/>
-> Do not ping @Discord-Admins unless there is an emergency that requires immediate intervention, such as a server raid or significant spam.
+> For all server-related issues, message @PelagornisBot mail. <br/>
+> Do not ping @PelagornisBot unless there is an emergency that requires immediate intervention, such as a server raid or significant spam.
