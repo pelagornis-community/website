@@ -1,9 +1,9 @@
 ---
-title: 'Pelagornis team'
+title: 'Community'
 description: ''
 ---
-### Community Admins
-- Jihoonahn
+### Admins
+- Jihoon
 
 ### Staff
 |Staff| Position | Name |
