@@ -3,7 +3,6 @@
 
 Online community for Pelagornis
 
-
 ## Server
 Join Our Community Server
 
