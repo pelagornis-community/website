@@ -2,12 +2,12 @@
   "name": "@pelagornis/community-website",
   "type": "module",
   "version": "0.0.1",
-  "description": "Opensource Website for Pelagornis",
+  "description": "Cummunity Website for Pelagornis",
   "license": "MIT",
-  "homepage": "https://opensource.pelagornis.com",
+  "homepage": "https://pelagornis.chat",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pelagornis-community/community.git"
+    "url": "https://github.com/pelagornis-community/website.git"
   },
   "scripts": {
     "dev": "astro dev",
